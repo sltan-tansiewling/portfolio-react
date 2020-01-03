@@ -1,0 +1,28 @@
+.section-name-bg {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border-radius: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+h3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form {
+    background-color: #F5F5F5;
+}
+
+button {
+    background-color: pink !important;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: rgb(56, 67, 75);
+}
