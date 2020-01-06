@@ -20,9 +20,12 @@ class Contact extends React.Component {
                             <a href="https://www.linkedin.com/in/tansiewling/" target="_blank"><img className="col-2" src="img/linkedin.png" alt="LinkedIn: https://www.linkedin.com/in/tansiewling/" /></a>
                             <br /><br /><br />
                             <div>Credits:
-                                <p>Icons made by <a href="https://www.flaticon.com/<?=_('authors/')?>dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+                                <p>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy" target="_blank">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon" target="_blank">www.flaticon.com</a>
                                 <br />
-                                Icons made by <a href="https://www.flaticon.com/<?=_('authors/')?>freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
+                                Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik" target="_blank">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon" target="_blank">www.flaticon.com</a>
+                                <br />
+                                Header image by <a href="https://unsplash.com/@lum3n?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank">LUM3N</a>
+                                </p>
                             </div>
                         </div>
                     </div>

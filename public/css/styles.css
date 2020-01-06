@@ -15,14 +15,20 @@ h3 {
     transform: translate(-50%, -50%);
 }
 
-form {
-    background-color: #F5F5F5;
-}
-
-button {
-    background-color: pink !important;
-}
-
 .navbar-nav .nav-item:hover .nav-link {
   color: rgb(56, 67, 75);
+}
+
+a {
+    color: rgb(56, 67, 75);
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none !important;
+}
+
+.btnViewPortfolio:hover, .btnViewPortfolio:active {
+    background-color: rgb(56, 67, 75) !important;
 }

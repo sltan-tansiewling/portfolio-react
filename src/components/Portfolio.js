@@ -2,6 +2,7 @@ import React from 'react'
 
 class Portfolio extends React.Component {
     render() {
+
         return(
             <div>
                 <article id="portfolio">
