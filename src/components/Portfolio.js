@@ -26,11 +26,11 @@ class Portfolio extends React.Component {
                                             <p className="card-text">An educational game to educate the public on the concepts of recycling while having fun.</p>
                                             <p className="card-text"><small className="text-muted">Technologies Used: HTML, CSS, JavaScript</small></p>
 
-                                            <a href="https://tansiewling-hotmail.github.io/save-the-earth/" target="_blank">
+                                            <a href="https://tansiewling-hotmail.github.io/save-the-earth/" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4">Demo</button>
                                             </a>
 
-                                            <a href="https://github.com/tansiewling-hotmail/save-the-earth" target="_blank">
+                                            <a href="https://github.com/tansiewling-hotmail/save-the-earth" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio">View Code</button>
                                             </a>
                                         </div>
@@ -48,11 +48,11 @@ class Portfolio extends React.Component {
                                             <h5 className="card-title">HR System</h5>
                                             <p className="card-text">A HR system to allow employees to apply and keep track of their leave applications.</p>
                                             <p className="card-text"><small className="text-muted">Technologies Used: Node JS, Express JS, PostgreSQL</small></p>
-                                            <a href="https://human-resource-system.herokuapp.com/" target="_blank">
+                                            <a href="https://human-resource-system.herokuapp.com/" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4">Demo</button>
                                             </a>
 
-                                            <a href="https://github.com/tansiewling-hotmail/hr_system" target="_blank">
+                                            <a href="https://github.com/tansiewling-hotmail/hr_system" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio">View Code</button>
                                             </a>
                                         </div>
@@ -71,11 +71,11 @@ class Portfolio extends React.Component {
                                             <p className="card-text">A social network platform to allow users to consolidate their food orders to get group discount when minimum quantity or spending specified by the restaurant is met.</p>
                                             <p className="card-text"><small className="text-muted">Technologies Used: Ruby on Rails, PostgreSQL</small></p>
 
-                                            <a href="https://minimum-quantity.herokuapp.com/" target="_blank">
+                                            <a href="https://minimum-quantity.herokuapp.com/" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4">Demo</button>
                                             </a>
 
-                                            <a href="https://github.com/tansiewling-hotmail/mq" target="_blank">
+                                            <a href="https://github.com/tansiewling-hotmail/mq" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio">View Code</button>
                                             </a>
                                         </div>
@@ -94,11 +94,11 @@ class Portfolio extends React.Component {
                                             <p className="card-text">A web application to hold all your membership accounts on one platform.</p>
                                             <p className="card-text"><small className="text-muted">Technologies Used: Ruby on Rails, PostgreSQL</small></p>
 
-                                            <a href="https://pocket-membership.herokuapp.com/" target="_blank">
+                                            <a href="https://pocket-membership.herokuapp.com/" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4">Demo</button>
                                             </a>
 
-                                            <a href="https://github.com/tansiewling-hotmail/pocket-membership" target="_blank">
+                                            <a href="https://github.com/tansiewling-hotmail/pocket-membership" rel="noreferrer noopener" target="_blank">
                                                 <button type="button" className="btn btn-outline-dark btnViewPortfolio">View Code</button>
                                             </a>
                                         </div>
