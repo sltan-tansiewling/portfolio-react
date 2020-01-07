@@ -71,8 +71,8 @@ class Portfolio extends React.Component {
                                             <p className="card-text">A social network platform to allow users to consolidate their food orders to get group discount when minimum quantity or spending specified by the restaurant is met.</p>
                                             <p className="card-text"><small className="text-muted">Technologies Used: Ruby on Rails, PostgreSQL</small></p>
 
-                                            <a href="https://github.com/tansiewling-hotmail/mq" target="_blank">
-                                                <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4 disabled">Demo</button>
+                                            <a href="https://minimum-quantity.herokuapp.com/" target="_blank">
+                                                <button type="button" className="btn btn-outline-dark btnViewPortfolio mr-4">Demo</button>
                                             </a>
 
                                             <a href="https://github.com/tansiewling-hotmail/mq" target="_blank">
