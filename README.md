@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This portfolio website is built using pure ReactJS.
 
-Click <a href="http://tansiewling.herokuapp.com">here</a> to view.
+Click <a href="https://tansiewling.herokuapp.com">here</a> to view.
